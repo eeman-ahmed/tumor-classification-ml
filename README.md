@@ -49,4 +49,4 @@ Wisconsin Breast Cancer Diagnostic Dataset (available in scikit-learn)
 
 ## Contributors
 - Eeman Ahmed 
-- Warda Sheikh
+- Warda Sheikh (github.com/wardahsh)
